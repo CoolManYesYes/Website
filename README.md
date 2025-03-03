@@ -1,6 +1,6 @@
 # RAEYRADE
 
-![RAEYRADE](https://raw.githubusercontent.com/CoolManYesYes/Website/refs/heads/main/Raeyrade.webp)
+![RAEYRADE](https://raw.githubusercontent.com/CoolManYesYes/Website/refs/heads/main/RAEYRADE.webp)
 
 -- future of exploiting
 # Features RAEYRADE HAS
