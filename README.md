@@ -3,7 +3,7 @@
 ![RAEYRADE](https://raw.githubusercontent.com/CoolManYesYes/Website/refs/heads/main/RAEYRADE.webp)
 
 # -- future of exploiting
-# Features RAEYRADE HAS
+# RAEYRADE ALWAYS
 
 - always up to date
 - adds more game support every week
