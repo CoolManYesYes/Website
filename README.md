@@ -6,7 +6,7 @@
 # RAEYRADE IS
 
 - always up to date
-- adds more game support every week
+- always adding more game support every week
 - has a clean lib
 - has easy to use scripts
  
