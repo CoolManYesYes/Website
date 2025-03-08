@@ -12,3 +12,9 @@
  
 # Who created RAEYRADE
 - Coolmanyesyes6/imblooabda -- Dev
+
+ # Script
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoolManYesYes/Website/refs/heads/main/RAEYRADE.txt"))()
+```
